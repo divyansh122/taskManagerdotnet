@@ -167,3 +167,4 @@ E:\TaskManager\TaskManagerBackend\obj\Debug\net9.0\refint\TaskManagerBackend.dll
 E:\TaskManager\TaskManagerBackend\obj\Debug\net9.0\TaskManagerBackend.pdb
 E:\TaskManager\TaskManagerBackend\obj\Debug\net9.0\TaskManagerBackend.genruntimeconfig.cache
 E:\TaskManager\TaskManagerBackend\obj\Debug\net9.0\ref\TaskManagerBackend.dll
+E:\TaskManager\TaskManagerBackend\obj\Debug\net9.0\TaskManagerBackend.sourcelink.json
